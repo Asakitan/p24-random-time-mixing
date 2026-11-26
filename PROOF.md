@@ -2,7 +2,7 @@
 
 **Byline:** Chain.Ren · Independent research
 
-**Version:** [proof-v1.0.0](https://github.com/Asakitan/p24-random-time-mixing/releases/tag/proof-v1.0.0) · 2026-11-27 (Australia/Sydney). OpenAI Codex contributed to the derivation, exposition and computation.
+**Version:** [proof-v1.0.1](https://github.com/Asakitan/p24-random-time-mixing/releases/tag/proof-v1.0.1) · 2026-11-27 (Australia/Sydney). OpenAI Codex contributed to the derivation, exposition and computation.
 
 **Theorem.** Let $A$ be the adjacency Hamiltonian of the path on 24 sites with unit coupling, and let $M(t)_{ij}=|(\exp(itA))_{ij}|^2$. There exist at most 145 nonnegative real readout times and probabilities on them such that $\mathbb E M(t)=J/24$. A single law works for all initial sites. The times are obtained by existence, not tabulated; the explicit discrete certificate below lives on a phase torus rather than on the real time axis.
 
