@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "Cite this public proof using the versioned report below."
+title: 'Exact uniform random-time mixing on the twenty-four-site spin chain'
+authors:
+  - family-names: "Chain.Ren"
+version: "1.0.0"
+date-released: '2026-11-27'
+license: MIT
+url: https://github.com/Asakitan/p24-random-time-mixing/releases/tag/proof-v1.0.0
+repository-code: https://github.com/Asakitan/p24-random-time-mixing
+preferred-citation:
+  type: report
+  title: 'Exact uniform random-time mixing on the twenty-four-site spin chain'
+  authors:
+    - family-names: "Chain.Ren"
+  version: "1.0.0"
+  year: 2026
+  url: https://github.com/Asakitan/p24-random-time-mixing/blob/proof-v1.0.0/PROOF.md
